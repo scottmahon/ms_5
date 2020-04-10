@@ -69,7 +69,7 @@ different graphs, one for runs, batting average, strikeouts per 9 innings as
 pitchers and errors for the years 2010-2019 (strikeouts I only have 2019). My
 next steps are to continue adding data, most importantly attendance, as well as
 some others. I also want to begin exploring data that mightn ot exist explicitly
-such as number of off-season transactions, which I would most likely have to just
+such as number of offseason transactions, which I would most likely have to just
 manually count. I also want to add images in place of the points on the plots
 and also see if there is a way to denote which team won the world series each
 year. I have already added lines of best fit, and hope to use the linear
